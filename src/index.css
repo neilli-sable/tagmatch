@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+#news{
+display:cell;
+}
+#site_update{
+display:table-cell;
+width:600px;
+position:relative;
+right:0;
+z-index:5;
+}
+.right{
+text-align:right;
+display:table-cell;
+}
+#tweet{
+width:260px;
+margin-left:auto;
+}
+#tweet p{
+text-indent:0em;
+position:relative;
+left:0px;
+line-height:100%;
+}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="link_icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="9.6318988"
+     inkscape:cy="993.59183"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="906"
+     inkscape:window-height="603"
+     inkscape:window-x="301"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:15.30449581px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.53424659;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="86.443306"
+       y="32.201"
+       id="text3780-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sakaguchi/www/tagmatch/icon/blog.png"
+       inkscape:export-xdpi="92.42717"
+       inkscape:export-ydpi="92.42717"><tspan
+         sodipodi:role="line"
+         id="tspan3782-8"
+         x="86.443306"
+         y="32.201">Blog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.95880508px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.57723574;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="7.8173561"
+       y="34.36924"
+       id="text2985-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sakaguchi/www/tagmatch/icon/twitter.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2987-6"
+         x="7.8173561"
+         y="34.36924">Twitter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.95880508px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000053;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="5.9976802"
+       y="33.16251"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sakaguchi/www/tagmatch/icon/twitter.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="5.9976802"
+         y="33.16251">Twitter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.30449581px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b73000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="84.96199"
+       y="31.377087"
+       id="text3780"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sakaguchi/www/tagmatch/icon/blog.png"
+       inkscape:export-xdpi="92.42717"
+       inkscape:export-ydpi="92.42717"><tspan
+         sodipodi:role="line"
+         id="tspan3782"
+         x="84.96199"
+         y="31.377087">Blog</tspan></text>
+  </g>
+</svg>

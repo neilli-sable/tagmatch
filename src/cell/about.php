@@ -1,0 +1,142 @@
+<?php include('head.php'); ?>
+
+<link rel="stylesheet" href="about.css" type="text/css" >
+
+<title>企画について - 「ブーン系タッグバトル」まとめサイト</title>
+</head>
+
+<body>
+<nav class="breadcrumbs">
+  <a href="index.php">トップ</a> &gt;
+  <a>企画について</a>
+</nav>
+<header>
+<h1>「<a href="index.php" class="accent">ブーン系タッグバトル</a>」まとめサイト</h1>
+</header>
+
+<?php include('glovalnavi.php'); ?>
+
+<article>
+<section>
+ <h2>企画について</h2>
+  <p>
+  2ちゃんねるに存在する掲示板、ニュー速VIP。そこで生まれたブーン系小説という読み物があります。この企画はブーン系小説作者が二人一組でタッグを組んで戦う、「<span class="accent">ブーン系タッグバトル</span>」です。
+  </p>
+</section>
+<section>
+ <h2>ルールなど</h2>
+  <p>
+  <a href="http://jbbs.livedoor.jp/internet/14776/">本企画掲示板</a>より.
+  <blockquote>
+ブーン系タッグバトル ついに開幕！<br />
+<br />
+●開催期間<br />
+<br />
+２月～５月<br />
+<br />
+●投下日時　　　　＜＜変更点あり＞＞<br />
+<br />
+５月の第４、５週<br />
+<br />
+●投下場所<br />
+<br />
+この掲示板<br />
+もしくはVIPや創作で投下して、ここに報告<br />
+<br />
+●主催者スカイプアカウント<br />
+japanese-style<br />
+名前：●～～<br />
+<br />
+<br />
+【ルール】<br />
+<br />
+☆☆参加方法☆☆<br />
+<br />
+２人で１組を作る。<br />
+タッグ相手の募集は当したらばのみに限らないとする。<br />
+skypeやtwitterでのタッグ結成も可。<br />
+かつ、ゲリラ参加も可能。<br />
+<br />
+☆☆参加資格☆☆<br />
+<br />
+必ず２人のタッグを作ること。<br />
+１人が複数のタッグに参加することは可能。<br />
+作品は１人最低５レスずつ書き、１０レス以上の作品を作る。<br />
+１レスの量は自由。<br />
+<br />
+☆☆連絡手段☆☆<br />
+<br />
+携帯作者には、タッグ相手と相談するための掲示板を「ふかひれが」用意した。<br />
+自由にスレたてをしていただいてかまいません。<br />
+<a href="http://jbbs.livedoor.jp/internet/15010/" target="_blank" title="http://jbbs.livedoor.jp/internet/15010/">http://jbbs.livedoor.jp/internet/15010/</a>　　<br />
+<br />
+skypeやtwitterを作者間で決める。<br />
+<br />
+<br />
+順次、必要なら追加していく。<br />
+<br />
+【結果発表】<br />
+<br />
+審査員数名の審議により、【最優秀賞】、【優秀賞】、【審査員賞】、【ベストカップル賞】などを決定する。<br />
+<br />
+<br />
+審査員は確定しました<br />
+<br />
+<br />
+【最後に】<br />
+<br />
+エスカルゴさんが用意してくださったサイトに飾るトップ絵やロゴも募集しています。<br />
+<br />
+<br />
+エスカルゴさんが用意してくださったサイト<br />
+<br />
+<a href="http://tagbattle.miraiserver.com/">http://tagbattle.miraiserver.com/</a>
+<br />
+<br /></blockquote>
+  </p>
+</section>
+<section>
+ <h2>募集</h2>
+<p>全て終了しました。</p>
+<del>
+  <h3>参加作者</h3>
+<p>
+タッグ相手は、<br>
+(1)自分で見つける<br>
+(2)「<a href="http://jbbs.livedoor.jp/bbs/read.cgi/internet/14776/1328005475/">タッグ相手募集スレ</a>」で立候補･声かけする、<br>
+(3)「<a href="http://jbbs.livedoor.jp/bbs/read.cgi/internet/14776/1329651819/">タッグ相手獲得スレ</a>」でランダムに決める、<br>
+(4)週末などに開催される<a href="http://chat.kanichat.com/chat?roomid=battleofteam">チャット</a>で募る←もうやってないみたいです。<br>
+といった方法で探してください。
+<p>タッグ相手が決まったら、「<a href="http://jbbs.livedoor.jp/bbs/read.cgi/internet/14776/1329741202/">エントリー確定スレ</a>」に書きこんでエントリーしてください。投下期間の前に"作者一覧"を作る予定です。エントリーせずに当日まで潜伏、ゲリラ投下するのも可です！
+</p>
+  <h3>審査員</h3>
+  <p>5名程度の予定です。<a href="http://boonweatherforecast.blog37.fc2.com/">合成士さんのブログ</a>のコメント欄から立候補をお願いします。審査員になると作品投下はできません。</p>
+<p>審査員決定しました。</p>
+
+  <h3>絵を描いてくれる方</h3>
+  <p>このサイト、華がないと思いませんか？ そこで、サイトロゴや企画の応援絵など(絵に限らず)提供してくださる方を募集しています。サイト管理者の"<a href="https://twitter.com/local_boon">Twitter</a>"宛のリプライ/DM、"<a href="mailto:local_boon@yahoo.co.jp?subject=ブーン系タッグバトルに関して&amp;body=">Mail</a>"で適当に連絡してください。ほいほい対応いたします。よろしくお願いします。</li>
+    </ul>
+</del>
+</section>
+
+<?php include('foot.php');?>
+
+</article>
+<!--Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29295497-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics-->
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body{
+color:#000000;
+background-color:#efefef;
+font-size:small;
+font-family:sans-serif;
+line-height:125%;
+}
+
+h1{
+color:#DB0000;
+font-weight: bold;
+line-height:250%;
+font-size:medium;
+}
+
+nav{
+position:fixed;
+opacity:0.2;
+filter:alpha(opacity=70);
+color:#000;
+font-size:small;
+font-weight:bold;
+top:10px;
+right:0px;
+z-index:5;
+padding:2px 5px 2px 5px;
+}
+
+.reader{
+color:#575757;
+font-size:9pt;
+}
+
+.reader .name{ 
+color:#339933;
+}
+
+.name{
+color:#008000;
+}
+

@@ -1,0 +1,116 @@
+<?php include('head.php'); ?>
+<title>審査員一覧 - 「ブーン系タッグバトル」まとめサイト</title>
+<link rel="stylesheet" href="panellist.css" type="text/css" >
+</head>
+
+<body>
+<nav class="breadcrumbs">
+  <a href="index.php">トップ</a> &gt;
+  <a>審査員一覧</a>
+</nav>
+<header>
+<h1>「<a href="index.php" class="accent">ブーン系タッグバトル</a>」まとめサイト</h1>
+</header>
+
+<?php include('glovalnavi.php'); ?>
+
+<article>
+<section>
+ <h2>審査員一覧</h2>
+
+<div class="personal">
+<img src="icon/gsis.png" alt="合成士アイコン" height="80" width="80">
+<div class="balloon-cell">
+<div class="balloon">
+<h3>合成士(主催者)</h3>
+<p>2008年より「<a href="http://localboon.web.fc2.com/018/top.html">（　＾ω＾）は合成士のようです</a>」を投下開始し、2009年完結。
+<wbr>その後、「<a href="http://localboon.web.fc2.com/105/top.html">ξﾟ⊿ﾟ)ξ　不可思議姫幻想記のようです【月ノ封印】</a>」を投下開始するも、ブーン系界隈からしばらく姿を消していた。未完のままとなるかと思いきや、2011年に同作をリメイクしての連載再開を果ている。一部ではブーン系界一の火の玉ボーイと言われているらしい。</p>
+<p class="links"><a href="http://boonweatherforecast.blog37.fc2.com/">Blog</a>, <a href="https://twitter.com/#!/Bleu_pomme">Twitter</a></p>
+</div>
+</div>
+</div>
+
+<div class="personal">
+<img src="icon/tars.png" alt="とある島アイコン" height="80" width="80">
+<div class="balloon-cell">
+<div class="balloon">
+<h3>とある島</h3>
+<p>現行作品「<a href="http://boonbunmaru.web.fc2.com/rensai/isle/2.htm">とある島のようです</a>」の作者。Twitterではやる夫系・ブーン系小説の作品感想をつぶやいている。140字以内であらすじを含めた感想をわかりやすくまとめる。その明瞭簡潔な文章に惹かれるものは多いという。タッグバトル企画の審査では140字では語り尽くせないことも語っていただきたいところである。 (<a href="toaru_review.php">全作品感想</a>頂きました)</p>
+<p class="links"><a href="https://twitter.com/#!/bn_impressions">Twitter</a></p>
+</div>
+</div>
+</div>
+
+<div class="personal">
+<img src="icon/ensn.png" alt="円アイコン" height="80" width="80">
+<div class="balloon-cell">
+<div class="balloon">
+<h3>円のようです◆MsdInw62ztuy</h3>
+<p>塩酸じゃないよ円さんだよ、でお馴染みのお方。代表作に「<a href="http://vipmain.sakura.ne.jp/688-top.html">（　＾ω＾）ブーンと円のようです</a>」がある。2005年からとブーン系黎明期を知る人間らしい。最近はTwitter上で感想をつぶやいたり、「<a href="http://www18.atwiki.jp/librariberia/">ブーン系小説シベリア図書館保管庫</a>」スタッフとなったりと、マルチに活躍しているようだ。</p>
+<p class="links"><a href="http://bircleanconod.blog111.fc2.com/">Blog</a>, <a href="https://twitter.com/#!/SWEETICLE">Twitter</a></p>
+</div>
+</div>
+</div>
+
+<div class="personal">
+<img src="icon/tkmi.png" alt="匿名アイコン" height="80" width="80">
+<div class="balloon-cell">
+<div class="balloon">
+<h3>匿名審査員</h3>
+<p>審査員の匿名X。
+彼は何処から来たのか、何処に往くのか、誰も知らない。
+ただ留年しないことが祈られるのみである。
+匿名をいいことにフリーダムな採点を目論んでいるらしい。</p>
+</div>
+</div>
+</div>
+
+<div class="personal">
+<img src="icon/tmt.png" alt="トマトアイコン" height="80" width="80">
+<div class="balloon-cell">
+<div class="balloon">
+<h3>トマト</h3>
+<p>「<a href="http://letas.en-grey.com/">行きずりトマトsociety</a>」の管理人。
+まとめられている作品はまだ少ないが、他では見れない作品がまとめられている。
+2012年4月1日に驚きの管理人交代を発表した。エイプリルフールではないらしい。
+一体どのような審査をされるのか、注目して頂きたい。
+</p>
+<p class="links"><a href="http://tomato008.blog.fc2.com/">Blog</a>, <a href="https://twitter.com/#!/pt_society">Twitter</a></p>
+</div>
+</div>
+</div>
+
+<div class="personal">
+<img src="icon/escr.png" alt="エスカルアイコン" height="80" width="80">
+<div class="balloon-cell">
+<div class="balloon">
+<h3>エスカル(まとめ担当)</h3>
+<p>2007年より無駄に長きに渡りブーン系まとめサイト「<a href="http://localboon.web.fc2.com/">内藤エスカルゴ</a>」の中の人をしている。仕事の遅さとミスの多さには一定の評価をもつ。虚言癖があるとかないとか。</p>
+<p class="links"><a href="http://localboon.blog94.fc2.com/">Blog</a>, <a href="https://twitter.com/#!/local_boon/followers">Twitter</a></p>
+</div>
+</div>
+</div>
+
+</section>
+
+<?php include('foot.php');?>
+
+</article>
+<!--Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29295497-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics-->
+
+</body>
+</html>

@@ -1,4 +1,12 @@
-<?php include('head.php'); ?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<link rev="made" href="https://twitter.com/local_boon" >
+<meta charset="UTF-8">
+<meta name="keywords" content="ブーン系,ブーン系小説,ようです,タッグバトル">
+<link rel="index" href="index.php" >
+<link rel="stylesheet" href="main.css" type="text/css" >
+<link rel="shortcut icon" href="favicon.ico" >
 <title>審査員一覧 - 「ブーン系タッグバトル」まとめサイト</title>
 <link rel="stylesheet" href="panellist.css" type="text/css" >
 </head>
@@ -12,7 +20,22 @@
 <h1>「<a href="index.php" class="accent">ブーン系タッグバトル</a>」まとめサイト</h1>
 </header>
 
-<?php include('glovalnavi.php'); ?>
+<div class="globalnavi">
+<nav>
+<ul>
+<li><a href="index.php">トップ</a></li>
+<li><a href="about.php">企画について</a></li>
+<li><a href="award.php">結果発表</a></li>
+<li><a href="link.php">リンク</a></li>
+<li><a href="http://jbbs.livedoor.jp/bbs/read.cgi/internet/14776/">メイン掲示板</a></li>
+<li><a href="novels.php">投下作品一覧</a></li>
+<li><a href="gallery.php">ギャラリー</a></li>
+<li><a href="author_tag.php">エントリー作者一覧</a></li>
+<li><a href="panellist.php">審査員一覧</a></li>
+<li><a href="eshi.php">絵師一覧</a></li>
+</ul>
+</nav>
+</div>
 
 <article>
 <section>
@@ -93,7 +116,13 @@
 
 </section>
 
-<?php include('foot.php');?>
+<nav class="sitemap">
+  <a href="index.php">トップ</a> |
+  <a href="about.php">企画について</a> |
+  <a href="require.php">募集</a> |
+  <a href="novels.php">作品</a> |
+  <a href="link.php">リンク</a>
+</nav>
 
 </article>
 <!--Google Analytics-->
